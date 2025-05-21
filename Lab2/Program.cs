@@ -7,38 +7,38 @@ namespace Lab2
     {
         static void Main(string[] args)
         {
-            var listIntNullable = new List<int?> { 1, 2, null, null, 5 };
-            foreach (var item in listIntNullable)
-            {
-                Console.WriteLine(item);
-            }
-            Action<int> tinhGiaiThua = delegate (int n)
-            {
-                int giaiThua = 1;
-                for (int i = 1; i <= n; i++)
-                {
-                    giaiThua *= i;
-                }
-                Console.WriteLine("Giai thua cua " + n + " la: " + giaiThua);
-            };
+            //var listIntNullable = new List<int?> { 1, 2, null, null, 5 };
+            //foreach (var item in listIntNullable)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //Action<int> tinhGiaiThua = delegate (int n)
+            //{
+            //    int giaiThua = 1;
+            //    for (int i = 1; i <= n; i++)
+            //    {
+            //        giaiThua *= i;
+            //    }
+            //    Console.WriteLine("Giai thua cua " + n + " la: " + giaiThua);
+            //};
 
-            int a;
-            Console.WriteLine("Nhap so nguyen duong n: ");
-            a = int.Parse(Console.ReadLine());
-            tinhGiaiThua(a);
+            
+            //tinhGiaiThua(3);
 
             Console.WriteLine("Bai1");
-            Bai1 bai1Instance = new Bai1();
-            bai1Instance.Bai1c();
+            Bai1 bai1 = new Bai1();
+            bai1.Bai1c();
+            Console.WriteLine();
 
             Console.WriteLine("Bai2");
-            Bai2 bai2Instance = new Bai2();
-            bai2Instance.bai2();
-            bai2Instance.Bai2b();
+            Bai2 bai2 = new Bai2();
+            bai2.bai2();
+            bai2.Bai2b();
+            Console.WriteLine();
 
             Console.WriteLine("Bai3");
-            UserData bai3Instance = new UserData("1", "DefaultUser", new List<float> { 90.5f, 85.0f, 78.0f });
-            bai3Instance.bai3();
+            UserData bai3 = new UserData("1", "DefaultUser", new List<float> { 90.5f, 85.0f, 78.0f });
+            bai3.bai3();
         }
     }
 }

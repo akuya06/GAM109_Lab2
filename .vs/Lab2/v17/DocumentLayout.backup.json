@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{320EC823-255D-43E5-8996-16B5ED1000BE}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{320EC823-255D-43E5-8996-16B5ED1000BE}|Lab2\\Lab2.csproj|D:\\Code\\Lab2\\lab2\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320EC823-255D-43E5-8996-16B5ED1000BE}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{320EC823-255D-43E5-8996-16B5ED1000BE}|Lab2\\Lab2.csproj|D:\\Code\\Lab2\\lab2\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320EC823-255D-43E5-8996-16B5ED1000BE}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{320EC823-255D-43E5-8996-16B5ED1000BE}|Lab2\\Lab2.csproj|D:\\Code\\Lab2\\lab2\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320EC823-255D-43E5-8996-16B5ED1000BE}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{320EC823-255D-43E5-8996-16B5ED1000BE}|Lab2\\Lab2.csproj|D:\\Code\\Lab2\\lab2\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{320EC823-255D-43E5-8996-16B5ED1000BE}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,20 +30,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bai3.cs",
               "DocumentMoniker": "D:\\Code\\Lab2\\Lab2\\Bai3.cs",
               "RelativeDocumentMoniker": "Lab2\\Bai3.cs",
               "ToolTip": "D:\\Code\\Lab2\\Lab2\\Bai3.cs",
               "RelativeToolTip": "Lab2\\Bai3.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T09:15:41.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bai2.cs",
               "DocumentMoniker": "D:\\Code\\Lab2\\Lab2\\Bai2.cs",
               "RelativeDocumentMoniker": "Lab2\\Bai2.cs",
@@ -51,18 +51,17 @@
               "RelativeToolTip": "Lab2\\Bai2.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAlwCMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T09:15:38.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T09:15:38.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Bai1.cs",
               "DocumentMoniker": "D:\\Code\\Lab2\\Lab2\\Bai1.cs",
               "RelativeDocumentMoniker": "Lab2\\Bai1.cs",
               "ToolTip": "D:\\Code\\Lab2\\Lab2\\Bai1.cs",
               "RelativeToolTip": "Lab2\\Bai1.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAD4vzcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wDcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T09:15:36.039Z",
               "EditorCaption": ""
@@ -75,7 +74,7 @@
               "RelativeDocumentMoniker": "Lab2\\Program.cs",
               "ToolTip": "D:\\Code\\Lab2\\Lab2\\Program.cs",
               "RelativeToolTip": "Lab2\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwCYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T06:42:34.95Z",
               "EditorCaption": ""
